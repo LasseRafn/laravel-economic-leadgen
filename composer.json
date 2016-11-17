@@ -13,7 +13,7 @@
         "php": ">=5.4.0",
 		"illuminate/support": "5.1.*|5.2.*|5.3.*",
 		"guzzlehttp/guzzle": "^6.2",
-		"lasserafn/cvrapi": "^0.5.0"
+		"lasserafn/cvrapi": "~0.5"
     },
     "require-dev": {
     },
