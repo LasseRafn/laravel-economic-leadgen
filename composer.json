@@ -1,0 +1,25 @@
+{
+    "name": "lasserafn/laravel-economic-leadgen",
+    "description": "",
+    "keywords": ["laravel", "e-conomic", "lead"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Lasse Rafn",
+            "email": "lasserafn@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+		"illuminate/support": "5.1.*|5.2.*|5.3.*",
+		"guzzlehttp/guzzle": "^6.2",
+		"lasserafn/cvrapi": "^0.5.0"
+    },
+    "require-dev": {
+    },
+    "autoload": {
+        "psr-4": {
+            "LasseRafn\\EconomicLeadgen\\": "src"
+        }
+    }
+}
