@@ -6,7 +6,6 @@
 ````
 composer require lasserafn/laravel-economic-leadgen
 ````
-
 2. Add the EconomicLeadgenServiceProvider to your ````config/app.php```` providers array.
 ````
 'providers' => [
