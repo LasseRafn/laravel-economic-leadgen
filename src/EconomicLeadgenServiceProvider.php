@@ -5,13 +5,6 @@ use Illuminate\Support\ServiceProvider;
 class EconomicLeadgenServiceProvider extends ServiceProvider
 {
 	/**
-	 * Indicates if loading of the provider is deferred.
-	 *
-	 * @var bool
-	 */
-	protected $defer = true;
-
-	/**
 	 * Boot
 	 */
 	public function boot()
